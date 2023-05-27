@@ -1,0 +1,4 @@
+- page: home, service,  client, contact
+- category: recruitment, news
+- custom post type: training -> build plugin
+- multi-languages: plugin polylang, loco translate
